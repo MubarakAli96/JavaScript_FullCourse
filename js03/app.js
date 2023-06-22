@@ -55,14 +55,43 @@
 
 // table of 4
 
-let table = 10;
+// let table = 10;
 
-// for(let i = 1; i <= 10; i++){
-//   console.log( "4" + " x " + i + " = " + 4*i);
-// }
+// // for(let i = 1; i <= 10; i++){
+// //   console.log( "4" + " x " + i + " = " + 4*i);
+// // }
+// //  for ( let i = 1 ; i <= 20; i++){
+// //   console.log( "3" + " x " + i + " = " + 3*i);
+// //  }
 //  for ( let i = 1 ; i <= 20; i++){
-//   console.log( "3" + " x " + i + " = " + 3*i);
+//   console.log( table+ " x " + i + " = " + table*i);
 //  }
- for ( let i = 1 ; i <= 20; i++){
-  console.log( table+ " x " + i + " = " + table*i);
- }
+// const age = 19;
+// const isOldEnough = age >= 18;
+// if(isOldEnough){
+//   console.log(`sera can start driving License 🚗`);
+// }
+// const hisAge = 16;
+// if( hisAge >= 18 ){
+//   console.log(`Rashid Can start driving License 🚓`);
+// }else{
+//   const years =  18 -hisAge;
+//   console.log(`rashid can  apply for license  after ${years} years 💔`);
+// }
+
+// const birthYear = 2004;
+// let century;
+// if( birthYear <= 2000){
+//   century = 20;
+// }else{
+//   century = 21;
+// }
+// console.log(century);
+
+// value conversation in different values simply conver string to number
+
+const inputYear = '1991';
+console.log(inputYear + 19);
+// now convert inputyear into number value
+console.log(Number(inputYear) +19);
+
