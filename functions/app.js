@@ -63,14 +63,23 @@
 
 //function is peac that we can use over and over
 
-function logger(){
-  console.log('my name is Mubarak');
-}
-//calling funcion // invoking function // running function
+// function logger(){
+//   console.log('my name is Mubarak');
+// }
+// //calling funcion // invoking function // running function
 
-logger();
+// logger();
 
-function fruitProcessor(apples , oranges){
-  
+// function fruitProcessor(apples , oranges){
+//   // console.log(apples,oranges);
+//   const juice =`juice with ${apples} apples and ${oranges} oranges.`;
+//   return juice;
 
-}
+// }
+//  const appleJuice = fruitProcessor( 5, 0);
+//  console.log(appleJuice);
+//  const appleOrangJuice = fruitProcessor( 10,2);
+//  console.log(appleOrangJuice);
+//  console.log(fruitProcessor( 2,10));
+
+
