@@ -52,11 +52,25 @@
 //global scope = parant scope( whole file accessable );
 //local scope = child scope( accessable within function);
 
-let abc = 7;
-function print(){
- let df = 8
-  console.log(df);
+// let abc = 7;
+// function print(){
+//  let df = 8
+//   console.log(df);
+
+// }
+// console.log(abc);
+// print();
+
+//function is peac that we can use over and over
+
+function logger(){
+  console.log('my name is Mubarak');
+}
+//calling funcion // invoking function // running function
+
+logger();
+
+function fruitProcessor(apples , oranges){
+  
 
 }
-console.log(abc);
-print();
